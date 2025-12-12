@@ -45,7 +45,6 @@ Compared to DIP and traditional PIP, HOPE:
 ## Usage
 
 ```bash
-git clone https://github.com/<your-name>/HOPE
 cd HOPE
 pip install -r requirements.txt
 ```
